@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yash Kothule 👋
 
-<!--
-**yashkothule/yashkothule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year MCA Student
+📊 Aspiring Data Analyst & IT Professional
+💻 Skilled in SQL, Excel, Python, HTML, CSS, and Basic Java
+🤖 Interested in AI tools, prompt engineering, and data-driven problem solving
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL
+* Microsoft Excel
+* Python (Basic)
+* Power BI (Learning)
+* HTML & CSS
+* Java (Basic)
+
+## Currently Learning
+
+* Advanced SQL
+* Power BI Dashboards
+* Data Analytics Projects
+* Business Reporting
+
+## Career Interests
+
+* Data Analyst
+* MIS Executive
+* Reporting Analyst
+* IT Support
+* Jr Python Developer
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/yash-kothule-6b251b411/
+* Email: [yashkothule.tech@gmail.com](mailto:yashkothule.tech@gmail.com)
