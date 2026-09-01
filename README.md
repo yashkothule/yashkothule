@@ -1,52 +1,135 @@
-# Hi, I'm Yash Kothule 👋
+# Hi, I'm Yash Kothule
 
-🎓 Final-Year MCA Student | 2027  
-💻 Aspiring Software Development Engineer  
-🐍 Python | Data Structures & Algorithms | OOP | SQL  
-⚙️ Interested in software development, problem solving, and building efficient software solutions
+🎓 MCA Candidate | 2027  
+📊 Python | SQL | Power BI | Excel | Data Visualization  
+⚙️ ETL | Data Pipelines | Databases | Data Processing
+
+I enjoy working with data to clean, transform, analyze, and visualize information while exploring efficient ways to process, store, and move data through reliable pipelines.
+
+I'm focused on building practical data-driven solutions that combine analytical thinking with strong programming and database fundamentals.
 
 ## Technical Skills
 
-* Python
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* SQL
-* MySQL
-* Flask & REST APIs
-* Git & GitHub
-* DBMS
-* Operating Systems
-* Computer Networks
-* System Design Fundamentals
+### Data & Analytics
+- Python
+- Pandas
+- NumPy
+- SQL
+- Excel
+- Power BI
+- Data Visualization
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- Reporting & Dashboard Development
 
-## Currently Learning
+### Data Engineering
+- ETL & Data Pipelines
+- Database Management
+- MySQL
+- DBMS
+- Data Processing
+- Data Modeling Fundamentals
+- Flask & REST APIs
 
-* Advanced Data Structures & Algorithms
-* System Design Fundamentals
-* Backend Development
-* Software Engineering & Design Principles
-* Problem Solving
+### Programming & Development
+- Python
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Problem Solving
+
+### Core Concepts
+- Relational Databases
+- SQL Query Optimization
+- Operating Systems
+- Computer Networks
+- Software Engineering Fundamentals
 
 ## Projects
 
-### Smart Task Scheduler
-Python-based task scheduling application using **heaps and hash maps** for priority-based task management, with OOP, input validation, edge-case handling, and complexity analysis.
+### 📊 Interactive Data Processing & Visualization Web Portal
 
-### Interactive Data Processing & Visualization Web Portal
-Flask-based application for processing, validating, and visualizing datasets using **Python, SQL, pandas, and Flask**.
+A Flask-based data platform for uploading, validating, processing, analyzing, and visualizing datasets.
 
-### College ERP System
-Database-backed application focused on **relational database design, SQL queries, data management, and reporting workflows**.
+**Key Areas:**
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Interactive data visualization
+- SQL and database integration
+- Automated data processing
+- Dashboard and report generation
 
-## Career Interests
+**Technologies:** Python | Pandas | SQL | Flask | Data Visualization
 
-* Software Development Engineer
-* Software Engineer Intern
-* Backend Developer
-* Python Developer
-* Software Engineering Roles
+---
+
+### ⚙️ Data Processing & ETL Pipeline
+
+A Python-based project focused on extracting, transforming, validating, and loading structured datasets into a database for analysis.
+
+**Key Areas:**
+- Data extraction
+- Data cleaning and transformation
+- Data validation
+- Database loading
+- Pipeline automation
+- Error handling
+
+**Technologies:** Python | Pandas | SQL | MySQL
+
+---
+
+### 📈 College ERP & Data Management System
+
+A database-backed application designed to manage structured academic information and support efficient data retrieval and reporting.
+
+**Key Areas:**
+- Relational database design
+- SQL queries and joins
+- Data management
+- Database normalization
+- Reporting workflows
+
+**Technologies:** Python | SQL | MySQL | DBMS
+
+---
+
+### 🧠 Smart Task Scheduler
+
+A Python application using heaps and hash maps for priority-based task management.
+
+**Key Areas:**
+- Data Structures & Algorithms
+- Priority-based scheduling
+- OOP
+- Input validation
+- Edge-case handling
+- Complexity analysis
+
+**Technologies:** Python | OOP | Data Structures
+
+## Currently Learning
+
+- Advanced SQL
+- Power BI & DAX
+- Data Analytics
+- Data Engineering Fundamentals
+- ETL & Data Pipeline Design
+- Data Modeling
+- Advanced Python & Pandas
+- Cloud & Modern Data Technologies
+
+## Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Engineering
+- Data Processing
+- Data Visualization
+- ETL & Data Pipelines
+- Python & SQL Development
 
 ## Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/yash-kothule-6b251b411/](https://www.linkedin.com/in/yash-kothule-6b251b411/)
-* Email: [yashkothule.tech@gmail.com](mailto:yashkothule.tech@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/yash-kothule-6b251b411/
+- Email: yashkothule.tech@gmail.com
