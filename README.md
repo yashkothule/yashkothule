@@ -92,22 +92,6 @@ A database-backed application designed to manage structured academic information
 
 **Technologies:** Python | SQL | MySQL | DBMS
 
----
-
-### 🧠 Smart Task Scheduler
-
-A Python application using heaps and hash maps for priority-based task management.
-
-**Key Areas:**
-- Data Structures & Algorithms
-- Priority-based scheduling
-- OOP
-- Input validation
-- Edge-case handling
-- Complexity analysis
-
-**Technologies:** Python | OOP | Data Structures
-
 ## Currently Learning
 
 - Advanced SQL
