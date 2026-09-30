@@ -205,19 +205,7 @@ def data_workflow(data):
 > **Raw data is only the starting point.
 > The goal is to turn it into reliable, useful information.**
 
----
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-
-</div>
-
----
 
 # 🧰 Technology Stack
 
