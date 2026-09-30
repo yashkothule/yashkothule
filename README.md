@@ -1,119 +1,254 @@
-# Hi, I'm Yash Kothule
+# 👋 Hi, I'm Yash Kothule
 
-🎓 MCA Candidate | 2027  
-📊 Python | SQL | Power BI | Excel | Data Visualization  
-⚙️ ETL | Data Pipelines | Databases | Data Processing
+### MCA Candidate • Data Analytics • Python • SQL • Data Engineering
 
-I enjoy working with data to clean, transform, analyze, and visualize information while exploring efficient ways to process, store, and move data through reliable pipelines.
+I’m an **MCA candidate focused on building practical data-driven applications and solutions** using Python, SQL, databases, and modern analytics tools.
 
-I'm focused on building practical data-driven solutions that combine analytical thinking with strong programming and database fundamentals.
+My work revolves around the complete data workflow — **extracting, cleaning, transforming, storing, analyzing, and visualizing data**.
 
-## Technical Skills
-
-### Data & Analytics
-- Python
-- Pandas
-- NumPy
-- SQL
-- Excel
-- Power BI
-- Data Visualization
-- Data Cleaning & Transformation
-- Exploratory Data Analysis
-- Reporting & Dashboard Development
-
-### Data Engineering
-- ETL & Data Pipelines
-- Database Management
-- MySQL
-- DBMS
-- Data Processing
-- Data Modeling Fundamentals
-- Flask & REST APIs
-
-### Programming & Development
-- Python
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Git & GitHub
-- Problem Solving
-
-### Core Concepts
-- Relational Databases
-- SQL Query Optimization
-- Operating Systems
-- Computer Networks
-- Software Engineering Fundamentals
-
-## Projects
-
-### 📊 Interactive Data Processing & Visualization Web Portal
-
-A Flask-based data platform for uploading, validating, processing, analyzing, and visualizing datasets.
-
-**Key Areas:**
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Interactive data visualization
-- SQL and database integration
-- Automated data processing
-- Dashboard and report generation
-
-**Technologies:** Python | Pandas | SQL | Flask | Data Visualization
+I’m particularly interested in the intersection of **Data Analytics and Data Engineering**, where reliable data pipelines and strong analytical foundations come together to create useful business insights.
 
 ---
 
-### ⚙️ Data Processing & ETL Pipeline
+## 🧠 What I Work With
 
-A Python-based project focused on extracting, transforming, validating, and loading structured datasets into a database for analysis.
+```text
+Data Analytics       →  SQL • Excel • Power BI • EDA • Data Visualization
 
-**Key Areas:**
-- Data extraction
-- Data cleaning and transformation
-- Data validation
-- Database loading
-- Pipeline automation
-- Error handling
+Data Processing      →  Python • Pandas • NumPy • Data Cleaning • Transformation
 
-**Technologies:** Python | Pandas | SQL | MySQL
+Data Engineering     →  ETL • Data Pipelines • Data Validation • Data Modeling
+
+Databases            →  MySQL • Relational Databases • DBMS • SQL
+
+Development          →  Python • Flask • REST APIs • OOP • DSA
+
+Tools                →  Git • GitHub • VS Code
+```
 
 ---
 
-### 📈 College ERP & Data Management System
+## 🛠️ Technical Skills
 
-A database-backed application designed to manage structured academic information and support efficient data retrieval and reporting.
+### 📊 Data & Analytics
 
-**Key Areas:**
-- Relational database design
-- SQL queries and joins
-- Data management
-- Database normalization
-- Reporting workflows
+* Python
+* Pandas
+* NumPy
+* SQL
+* Excel
+* Power BI
+* Data Visualization
+* Exploratory Data Analysis
+* Data Cleaning & Transformation
+* Dashboard Development
+* Reporting & Data Analysis
 
-**Technologies:** Python | SQL | MySQL | DBMS
+### ⚙️ Data Engineering
 
-## Currently Learning
+* ETL Workflows
+* Data Pipelines
+* Data Extraction & Loading
+* Data Validation
+* Data Processing
+* Database Management
+* Data Modeling Fundamentals
+* MySQL
+* Relational Databases
 
-- Advanced SQL
-- Power BI & DAX
-- Data Analytics
-- Data Engineering Fundamentals
-- ETL & Data Pipeline Design
-- Data Modeling
-- Advanced Python & Pandas
-- Cloud & Modern Data Technologies
+### 💻 Programming & Development
 
-## Areas of Interest
+* Python
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Flask
+* REST APIs
+* Git & GitHub
+* Problem Solving
 
-- Data Analytics
-- Business Intelligence
-- Data Engineering
-- Data Processing
-- Data Visualization
-- ETL & Data Pipelines
-- Python & SQL Development
+### 🧩 Computer Science Fundamentals
 
-## Connect With Me
+* DBMS
+* SQL Querying & Optimization
+* Operating Systems
+* Computer Networks
+* Software Engineering
 
-- LinkedIn: https://www.linkedin.com/in/yash-kothule-6b251b411/
-- Email: yashkothule.tech@gmail.com
+---
+
+# 🚀 Featured Projects
+
+## 📊 Interactive Data Processing & Visualization Web Portal
+
+A Flask-based web application designed to turn raw datasets into structured, analyzable, and visualized information.
+
+### What it does
+
+* Upload and process datasets
+* Perform data cleaning and preprocessing
+* Analyze structured data using Python
+* Generate visualizations and analytical insights
+* Integrate SQL-based data storage
+* Build interactive dashboards
+* Generate reports from processed data
+
+**Tech Stack**
+
+`Python` `Pandas` `SQL` `Flask` `Data Visualization`
+
+---
+
+## ⚙️ Data Processing & ETL Pipeline
+
+A Python-based ETL project demonstrating how structured datasets can move through a complete data processing workflow.
+
+### Pipeline
+
+```text
+Raw Data
+   ↓
+Extraction
+   ↓
+Cleaning
+   ↓
+Transformation
+   ↓
+Validation
+   ↓
+Database Loading
+   ↓
+Analysis
+```
+
+### Key Areas
+
+* Data extraction
+* Data cleaning
+* Data transformation
+* Data validation
+* Database loading
+* Error handling
+* Pipeline automation
+
+**Tech Stack**
+
+`Python` `Pandas` `SQL` `MySQL`
+
+---
+
+## 📈 College ERP & Data Management System
+
+A database-backed application designed to manage structured academic information and support efficient data retrieval.
+
+### Key Areas
+
+* Relational database design
+* SQL queries and joins
+* Database normalization
+* Structured data management
+* Academic information workflows
+* Reporting and data retrieval
+
+**Tech Stack**
+
+`Python` `SQL` `MySQL` `DBMS`
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously expanding my skills across analytics and data engineering.
+
+```text
+Advanced SQL
+      ↓
+Power BI + DAX
+      ↓
+Advanced Python & Pandas
+      ↓
+Data Modeling
+      ↓
+ETL & Pipeline Architecture
+      ↓
+Cloud & Modern Data Technologies
+```
+
+---
+
+# 🎯 Areas of Interest
+
+* 📊 Data Analytics
+* 📈 Business Intelligence
+* ⚙️ Data Engineering
+* 🔄 ETL & Data Pipelines
+* 🗄️ Database Systems
+* 🐍 Python Development
+* 🔎 SQL & Data Analysis
+* 📉 Data Visualization
+* ☁️ Modern Data & Cloud Technologies
+
+---
+
+# 📌 My Approach to Data
+
+```python
+def data_workflow(data):
+    data = extract(data)
+    data = clean(data)
+    data = validate(data)
+    data = transform(data)
+    data = store(data)
+    data = analyze(data)
+    return visualize(data)
+```
+
+> **Raw data is only the starting point.
+> The goal is to turn it into reliable, useful information.**
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+# 🧰 Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pandas,mysql,postgresql,flask,git,github,vscode,html,css,js" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+### Let's connect and build something with data.
+
+**LinkedIn**
+[linkedin.com/in/yash-kothule-6b251b411](https://www.linkedin.com/in/yash-kothule-6b251b411/)
+
+**Email**
+[yashkothule.tech@gmail.com](mailto:yashkothule.tech@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Analyze. Automate. Learn.
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat-square)
+
+</div>
