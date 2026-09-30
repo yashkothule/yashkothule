@@ -237,6 +237,4 @@ def data_workflow(data):
 
 ### ⚡ Build. Analyze. Automate. Learn.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat-square)
-
 </div>
